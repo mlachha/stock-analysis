@@ -266,7 +266,4 @@ End Sub
   ![picture](Images/VBA_Challenge_2018.png)
   
   we can clearly see the impact refactoring the code had on the runtime by reducing it significantly. 
-  
  
-
-![image](https://user-images.githubusercontent.com/47876684/110166431-56e66800-7dc2-11eb-88f1-3bbc95e7dd44.png)
